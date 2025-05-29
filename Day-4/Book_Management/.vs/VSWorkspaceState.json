@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Books.DataAccess",
+    "\\Books.DataAccess\\Migrations",
+    "\\Books.DataAccess\\Models",
+    "\\Books.DataAccess\\Repositories",
+    "\\Books.Services",
+    "\\Book_Management",
+    "\\Book_Management\\Controllers"
+  ],
+  "SelectedNode": "\\Book_Management.sln",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,285 @@
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\appsettings.Development.json
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\appsettings.json
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\Book_Management.staticwebassets.endpoints.json
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\Book_Management.exe
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\Book_Management.deps.json
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\Book_Management.runtimeconfig.json
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\Book_Management.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\Book_Management.pdb
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Summer Internship\Book_Management\Book_Management\obj\Debug\net8.0\Book_Management.csproj.AssemblyReference.cache
+D:\Summer Internship\Book_Management\Book_Management\obj\Debug\net8.0\Book_Management.GeneratedMSBuildEditorConfig.editorconfig
+D:\Summer Internship\Book_Management\Book_Management\obj\Debug\net8.0\Book_Management.AssemblyInfoInputs.cache
+D:\Summer Internship\Book_Management\Book_Management\obj\Debug\net8.0\Book_Management.AssemblyInfo.cs
+D:\Summer Internship\Book_Management\Book_Management\obj\Debug\net8.0\Book_Management.csproj.CoreCompileInputs.cache
+D:\Summer Internship\Book_Management\Book_Management\obj\Debug\net8.0\Book_Management.MvcApplicationPartsAssemblyInfo.cs
+D:\Summer Internship\Book_Management\Book_Management\obj\Debug\net8.0\Book_Management.MvcApplicationPartsAssemblyInfo.cache
+D:\Summer Internship\Book_Management\Book_Management\obj\Debug\net8.0\scopedcss\bundle\Book_Management.styles.css
+D:\Summer Internship\Book_Management\Book_Management\obj\Debug\net8.0\staticwebassets.build.json
+D:\Summer Internship\Book_Management\Book_Management\obj\Debug\net8.0\staticwebassets.development.json
+D:\Summer Internship\Book_Management\Book_Management\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Summer Internship\Book_Management\Book_Management\obj\Debug\net8.0\staticwebassets\msbuild.Book_Management.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Summer Internship\Book_Management\Book_Management\obj\Debug\net8.0\staticwebassets\msbuild.Book_Management.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Summer Internship\Book_Management\Book_Management\obj\Debug\net8.0\staticwebassets\msbuild.build.Book_Management.props
+D:\Summer Internship\Book_Management\Book_Management\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Book_Management.props
+D:\Summer Internship\Book_Management\Book_Management\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Book_Management.props
+D:\Summer Internship\Book_Management\Book_Management\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Summer Internship\Book_Management\Book_Management\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Summer Internship\Book_Management\Book_Management\obj\Debug\net8.0\Book_Man.2EF232F1.Up2Date
+D:\Summer Internship\Book_Management\Book_Management\obj\Debug\net8.0\Book_Management.dll
+D:\Summer Internship\Book_Management\Book_Management\obj\Debug\net8.0\refint\Book_Management.dll
+D:\Summer Internship\Book_Management\Book_Management\obj\Debug\net8.0\Book_Management.pdb
+D:\Summer Internship\Book_Management\Book_Management\obj\Debug\net8.0\Book_Management.genruntimeconfig.cache
+D:\Summer Internship\Book_Management\Book_Management\obj\Debug\net8.0\ref\Book_Management.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\Humanizer.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\Npgsql.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\System.CodeDom.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\System.Text.Json.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\Books.DataAccess.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\Books.Services.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\Books.DataAccess.pdb
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\Books.Services.pdb
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\obj\Debug\net8.0\Book_Management.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\obj\Debug\net8.0\refint\Book_Management.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\obj\Debug\net8.0\Book_Management.pdb
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\appsettings.Development.json
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\appsettings.json
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\Book_Management.staticwebassets.endpoints.json
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\Book_Management.exe
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\Book_Management.deps.json
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\Book_Management.runtimeconfig.json
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\Book_Management.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\Book_Management.pdb
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\Humanizer.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\Npgsql.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\System.CodeDom.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\System.Text.Json.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\Books.DataAccess.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\Books.Services.dll
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\Books.DataAccess.pdb
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\bin\Debug\net8.0\Books.Services.pdb
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\obj\Debug\net8.0\Book_Management.csproj.AssemblyReference.cache
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\obj\Debug\net8.0\Book_Management.GeneratedMSBuildEditorConfig.editorconfig
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\obj\Debug\net8.0\Book_Management.AssemblyInfoInputs.cache
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\obj\Debug\net8.0\Book_Management.AssemblyInfo.cs
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\obj\Debug\net8.0\Book_Management.csproj.CoreCompileInputs.cache
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\obj\Debug\net8.0\Book_Management.MvcApplicationPartsAssemblyInfo.cs
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\obj\Debug\net8.0\Book_Management.MvcApplicationPartsAssemblyInfo.cache
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\obj\Debug\net8.0\Book_Management.sourcelink.json
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\obj\Debug\net8.0\scopedcss\bundle\Book_Management.styles.css
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\obj\Debug\net8.0\staticwebassets.build.json
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\obj\Debug\net8.0\staticwebassets.development.json
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\obj\Debug\net8.0\staticwebassets\msbuild.Book_Management.Microsoft.AspNetCore.StaticWebAssets.props
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\obj\Debug\net8.0\staticwebassets\msbuild.Book_Management.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\obj\Debug\net8.0\staticwebassets\msbuild.build.Book_Management.props
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Book_Management.props
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Book_Management.props
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\obj\Debug\net8.0\staticwebassets.pack.json
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\obj\Debug\net8.0\Book_Man.2EF232F1.Up2Date
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\obj\Debug\net8.0\Book_Management.genruntimeconfig.cache
+E:\TatvaSoft\Day-4\Book_Management\Book_Management\obj\Debug\net8.0\ref\Book_Management.dll
