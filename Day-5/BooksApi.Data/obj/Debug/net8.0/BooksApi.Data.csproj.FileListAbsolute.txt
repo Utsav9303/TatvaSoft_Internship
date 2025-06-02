@@ -1,0 +1,6 @@
+E:\TatvaSoft\Day-5\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.csproj.AssemblyReference.cache
+E:\TatvaSoft\Day-5\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\TatvaSoft\Day-5\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.AssemblyInfoInputs.cache
+E:\TatvaSoft\Day-5\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.AssemblyInfo.cs
+E:\TatvaSoft\Day-5\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.csproj.CoreCompileInputs.cache
+E:\TatvaSoft\Day-5\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.sourcelink.json
