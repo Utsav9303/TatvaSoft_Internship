@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "4HYwZZrjaXrWhuXUx18Ja7ScgLZ/JzWrUR5JaHUnbt0=",
+  "Source": "Mission",
+  "BasePath": "_content/Mission",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Mission\\wwwroot",
+      "Source": "Mission",
+      "ContentRoot": "E:\\TatvaSoft\\Day-9\\Mission\\Mission\\wwwroot\\",
+      "BasePath": "_content/Mission",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}

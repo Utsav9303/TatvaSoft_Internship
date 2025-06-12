@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "E:\\TatvaSoft\\Day-8\\Mission\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\TatvaSoft\\Day-8\\Mission\\Mission.Entities\\Migrations\\20250604102052_utsav.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mission.Entities\\Migrations\\20250604102052_utsav.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E4BB6B5-95A8-400C-AE6A-745E2AE93471}|Mission.Entities\\Mission.Entities.csproj|e:\\tatvasoft\\day-8\\mission\\mission.entities\\context\\missiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E4BB6B5-95A8-400C-AE6A-745E2AE93471}|Mission.Entities\\Mission.Entities.csproj|solutionrelative:mission.entities\\context\\missiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E4BB6B5-95A8-400C-AE6A-745E2AE93471}|Mission.Entities\\Mission.Entities.csproj|e:\\tatvasoft\\day-8\\mission\\mission.entities\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E4BB6B5-95A8-400C-AE6A-745E2AE93471}|Mission.Entities\\Mission.Entities.csproj|solutionrelative:mission.entities\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB69E46A-A7FF-4366-B476-0A10333B1193}|Mission.Repositories\\Mission.Repositories.csproj|e:\\tatvasoft\\day-8\\mission\\mission.repositories\\repositories\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB69E46A-A7FF-4366-B476-0A10333B1193}|Mission.Repositories\\Mission.Repositories.csproj|solutionrelative:mission.repositories\\repositories\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E4BB6B5-95A8-400C-AE6A-745E2AE93471}|Mission.Entities\\Mission.Entities.csproj|e:\\tatvasoft\\day-8\\mission\\mission.entities\\entities\\responseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E4BB6B5-95A8-400C-AE6A-745E2AE93471}|Mission.Entities\\Mission.Entities.csproj|solutionrelative:mission.entities\\entities\\responseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E4BB6B5-95A8-400C-AE6A-745E2AE93471}|Mission.Entities\\Mission.Entities.csproj|e:\\tatvasoft\\day-8\\mission\\mission.entities\\models\\registerusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E4BB6B5-95A8-400C-AE6A-745E2AE93471}|Mission.Entities\\Mission.Entities.csproj|solutionrelative:mission.entities\\models\\registerusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E4BB6B5-95A8-400C-AE6A-745E2AE93471}|Mission.Entities\\Mission.Entities.csproj|e:\\tatvasoft\\day-8\\mission\\mission.entities\\models\\loginuserrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,32 +19,48 @@
       "RelativeMoniker": "D:0:0:{3E4BB6B5-95A8-400C-AE6A-745E2AE93471}|Mission.Entities\\Mission.Entities.csproj|solutionrelative:mission.entities\\models\\loginuserresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB69E46A-A7FF-4366-B476-0A10333B1193}|Mission.Repositories\\Mission.Repositories.csproj|e:\\tatvasoft\\day-8\\mission\\mission.repositories\\repositories\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB69E46A-A7FF-4366-B476-0A10333B1193}|Mission.Repositories\\Mission.Repositories.csproj|solutionrelative:mission.repositories\\repositories\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB69E46A-A7FF-4366-B476-0A10333B1193}|Mission.Repositories\\Mission.Repositories.csproj|e:\\tatvasoft\\day-8\\mission\\mission.repositories\\repositories\\adminuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB69E46A-A7FF-4366-B476-0A10333B1193}|Mission.Repositories\\Mission.Repositories.csproj|solutionrelative:mission.repositories\\repositories\\adminuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02856F4D-402C-4547-96A4-1412D5C66B37}|Mission.Services\\Mission.Services.csproj|e:\\tatvasoft\\day-8\\mission\\mission.services\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02856F4D-402C-4547-96A4-1412D5C66B37}|Mission.Services\\Mission.Services.csproj|solutionrelative:mission.services\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{02856F4D-402C-4547-96A4-1412D5C66B37}|Mission.Services\\Mission.Services.csproj|e:\\tatvasoft\\day-8\\mission\\mission.services\\services\\adminuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02856F4D-402C-4547-96A4-1412D5C66B37}|Mission.Services\\Mission.Services.csproj|solutionrelative:mission.services\\services\\adminuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02856F4D-402C-4547-96A4-1412D5C66B37}|Mission.Services\\Mission.Services.csproj|e:\\tatvasoft\\day-8\\mission\\mission.services\\iservices\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02856F4D-402C-4547-96A4-1412D5C66B37}|Mission.Services\\Mission.Services.csproj|solutionrelative:mission.services\\iservices\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{02856F4D-402C-4547-96A4-1412D5C66B37}|Mission.Services\\Mission.Services.csproj|e:\\tatvasoft\\day-8\\mission\\mission.services\\iservices\\iadminuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02856F4D-402C-4547-96A4-1412D5C66B37}|Mission.Services\\Mission.Services.csproj|solutionrelative:mission.services\\iservices\\iadminuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3E4BB6B5-95A8-400C-AE6A-745E2AE93471}|Mission.Entities\\Mission.Entities.csproj|e:\\tatvasoft\\day-8\\mission\\mission.entities\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4BB6B5-95A8-400C-AE6A-745E2AE93471}|Mission.Entities\\Mission.Entities.csproj|solutionrelative:mission.entities\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4BB6B5-95A8-400C-AE6A-745E2AE93471}|Mission.Entities\\Mission.Entities.csproj|e:\\tatvasoft\\day-8\\mission\\mission.entities\\migrations\\20250604102052_utsav.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4BB6B5-95A8-400C-AE6A-745E2AE93471}|Mission.Entities\\Mission.Entities.csproj|solutionrelative:mission.entities\\migrations\\20250604102052_utsav.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4BB6B5-95A8-400C-AE6A-745E2AE93471}|Mission.Entities\\Mission.Entities.csproj|e:\\tatvasoft\\day-8\\mission\\mission.entities\\context\\missiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4BB6B5-95A8-400C-AE6A-745E2AE93471}|Mission.Entities\\Mission.Entities.csproj|solutionrelative:mission.entities\\context\\missiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB69E46A-A7FF-4366-B476-0A10333B1193}|Mission.Repositories\\Mission.Repositories.csproj|e:\\tatvasoft\\day-8\\mission\\mission.repositories\\repositories\\adminuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB69E46A-A7FF-4366-B476-0A10333B1193}|Mission.Repositories\\Mission.Repositories.csproj|solutionrelative:mission.repositories\\repositories\\adminuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4BB6B5-95A8-400C-AE6A-745E2AE93471}|Mission.Entities\\Mission.Entities.csproj|e:\\tatvasoft\\day-8\\mission\\mission.entities\\models\\registerusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4BB6B5-95A8-400C-AE6A-745E2AE93471}|Mission.Entities\\Mission.Entities.csproj|solutionrelative:mission.entities\\models\\registerusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1D752E97-71FD-467F-A411-227ADAB7B29B}|Mission\\Mission.csproj|e:\\tatvasoft\\day-8\\mission\\mission\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D752E97-71FD-467F-A411-227ADAB7B29B}|Mission\\Mission.csproj|solutionrelative:mission\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02856F4D-402C-4547-96A4-1412D5C66B37}|Mission.Services\\Mission.Services.csproj|e:\\tatvasoft\\day-8\\mission\\mission.services\\iservices\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02856F4D-402C-4547-96A4-1412D5C66B37}|Mission.Services\\Mission.Services.csproj|solutionrelative:mission.services\\iservices\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02856F4D-402C-4547-96A4-1412D5C66B37}|Mission.Services\\Mission.Services.csproj|e:\\tatvasoft\\day-8\\mission\\mission.services\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02856F4D-402C-4547-96A4-1412D5C66B37}|Mission.Services\\Mission.Services.csproj|solutionrelative:mission.services\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D752E97-71FD-467F-A411-227ADAB7B29B}|Mission\\Mission.csproj|e:\\tatvasoft\\day-8\\mission\\mission\\controllers\\adminusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D752E97-71FD-467F-A411-227ADAB7B29B}|Mission\\Mission.csproj|solutionrelative:mission\\controllers\\adminusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1D752E97-71FD-467F-A411-227ADAB7B29B}|Mission\\Mission.csproj|e:\\tatvasoft\\day-8\\mission\\mission\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -69,10 +73,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1D752E97-71FD-467F-A411-227ADAB7B29B}|Mission\\Mission.csproj|e:\\tatvasoft\\day-8\\mission\\mission\\mission.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{1D752E97-71FD-467F-A411-227ADAB7B29B}|Mission\\Mission.csproj|solutionrelative:mission\\mission.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D752E97-71FD-467F-A411-227ADAB7B29B}|Mission\\Mission.csproj|e:\\tatvasoft\\day-8\\mission\\mission\\controllers\\adminusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D752E97-71FD-467F-A411-227ADAB7B29B}|Mission\\Mission.csproj|solutionrelative:mission\\controllers\\adminusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB69E46A-A7FF-4366-B476-0A10333B1193}|Mission.Repositories\\Mission.Repositories.csproj|e:\\tatvasoft\\day-8\\mission\\mission.repositories\\irepositories\\iloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -90,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -113,51 +113,12 @@
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20250604102052_utsav.cs",
-              "DocumentMoniker": "E:\\TatvaSoft\\Day-8\\Mission\\Mission.Entities\\Migrations\\20250604102052_utsav.cs",
-              "RelativeDocumentMoniker": "Mission.Entities\\Migrations\\20250604102052_utsav.cs",
-              "ToolTip": "E:\\TatvaSoft\\Day-8\\Mission\\Mission.Entities\\Migrations\\20250604102052_utsav.cs",
-              "RelativeToolTip": "Mission.Entities\\Migrations\\20250604102052_utsav.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T10:20:52.807Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MissionDbContext.cs",
-              "DocumentMoniker": "E:\\TatvaSoft\\Day-8\\Mission\\Mission.Entities\\Context\\MissionDbContext.cs",
-              "RelativeDocumentMoniker": "Mission.Entities\\Context\\MissionDbContext.cs",
-              "ToolTip": "E:\\TatvaSoft\\Day-8\\Mission\\Mission.Entities\\Context\\MissionDbContext.cs",
-              "RelativeToolTip": "Mission.Entities\\Context\\MissionDbContext.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA8AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T08:57:29.839Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "E:\\TatvaSoft\\Day-8\\Mission\\Mission.Entities\\Entities\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "Mission.Entities\\Entities\\BaseEntity.cs",
-              "ToolTip": "E:\\TatvaSoft\\Day-8\\Mission\\Mission.Entities\\Entities\\BaseEntity.cs",
-              "RelativeToolTip": "Mission.Entities\\Entities\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T08:57:26.097Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "ResponseResult.cs",
               "DocumentMoniker": "E:\\TatvaSoft\\Day-8\\Mission\\Mission.Entities\\Entities\\ResponseResult.cs",
               "RelativeDocumentMoniker": "Mission.Entities\\Entities\\ResponseResult.cs",
@@ -165,12 +126,11 @@
               "RelativeToolTip": "Mission.Entities\\Entities\\ResponseResult.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T08:57:24.988Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T08:57:24.988Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "LoginUserRequestModel.cs",
               "DocumentMoniker": "E:\\TatvaSoft\\Day-8\\Mission\\Mission.Entities\\Models\\LoginUserRequestModel.cs",
               "RelativeDocumentMoniker": "Mission.Entities\\Models\\LoginUserRequestModel.cs",
@@ -178,12 +138,11 @@
               "RelativeToolTip": "Mission.Entities\\Models\\LoginUserRequestModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T08:57:19.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T08:57:19.493Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "LoginUserResponseModel.cs",
               "DocumentMoniker": "E:\\TatvaSoft\\Day-8\\Mission\\Mission.Entities\\Models\\LoginUserResponseModel.cs",
               "RelativeDocumentMoniker": "Mission.Entities\\Models\\LoginUserResponseModel.cs",
@@ -191,12 +150,11 @@
               "RelativeToolTip": "Mission.Entities\\Models\\LoginUserResponseModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T08:57:18.272Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T08:57:18.272Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
               "Title": "AdminUserService.cs",
               "DocumentMoniker": "E:\\TatvaSoft\\Day-8\\Mission\\Mission.Services\\Services\\AdminUserService.cs",
               "RelativeDocumentMoniker": "Mission.Services\\Services\\AdminUserService.cs",
@@ -204,12 +162,11 @@
               "RelativeToolTip": "Mission.Services\\Services\\AdminUserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T05:21:04.402Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T05:21:04.402Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 5,
               "Title": "IAdminUserService.cs",
               "DocumentMoniker": "E:\\TatvaSoft\\Day-8\\Mission\\Mission.Services\\IServices\\IAdminUserService.cs",
               "RelativeDocumentMoniker": "Mission.Services\\IServices\\IAdminUserService.cs",
@@ -217,12 +174,60 @@
               "RelativeToolTip": "Mission.Services\\IServices\\IAdminUserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T05:20:28.494Z",
+              "WhenOpened": "2025-06-04T05:20:28.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginRepository.cs",
+              "DocumentMoniker": "E:\\TatvaSoft\\Day-8\\Mission\\Mission.Repositories\\Repositories\\LoginRepository.cs",
+              "RelativeDocumentMoniker": "Mission.Repositories\\Repositories\\LoginRepository.cs",
+              "ToolTip": "E:\\TatvaSoft\\Day-8\\Mission\\Mission.Repositories\\Repositories\\LoginRepository.cs",
+              "RelativeToolTip": "Mission.Repositories\\Repositories\\LoginRepository.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAawDoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T05:00:30.885Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "E:\\TatvaSoft\\Day-8\\Mission\\Mission.Entities\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Entities\\BaseEntity.cs",
+              "ToolTip": "E:\\TatvaSoft\\Day-8\\Mission\\Mission.Entities\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Mission.Entities\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T08:57:26.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250604102052_utsav.cs",
+              "DocumentMoniker": "E:\\TatvaSoft\\Day-8\\Mission\\Mission.Entities\\Migrations\\20250604102052_utsav.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Migrations\\20250604102052_utsav.cs",
+              "ToolTip": "E:\\TatvaSoft\\Day-8\\Mission\\Mission.Entities\\Migrations\\20250604102052_utsav.cs",
+              "RelativeToolTip": "Mission.Entities\\Migrations\\20250604102052_utsav.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T10:20:52.807Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "MissionDbContext.cs",
+              "DocumentMoniker": "E:\\TatvaSoft\\Day-8\\Mission\\Mission.Entities\\Context\\MissionDbContext.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Context\\MissionDbContext.cs",
+              "ToolTip": "E:\\TatvaSoft\\Day-8\\Mission\\Mission.Entities\\Context\\MissionDbContext.cs",
+              "RelativeToolTip": "Mission.Entities\\Context\\MissionDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T08:57:29.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "AdminUserRepository.cs",
               "DocumentMoniker": "E:\\TatvaSoft\\Day-8\\Mission\\Mission.Repositories\\Repositories\\AdminUserRepository.cs",
               "RelativeDocumentMoniker": "Mission.Repositories\\Repositories\\AdminUserRepository.cs",
@@ -235,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "RegisterUserModel.cs",
               "DocumentMoniker": "E:\\TatvaSoft\\Day-8\\Mission\\Mission.Entities\\Models\\RegisterUserModel.cs",
               "RelativeDocumentMoniker": "Mission.Entities\\Models\\RegisterUserModel.cs",
@@ -243,12 +248,11 @@
               "RelativeToolTip": "Mission.Entities\\Models\\RegisterUserModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T04:58:07.68Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T04:58:07.68Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 11,
               "Title": "LoginController.cs",
               "DocumentMoniker": "E:\\TatvaSoft\\Day-8\\Mission\\Mission\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "Mission\\Controllers\\LoginController.cs",
@@ -256,25 +260,11 @@
               "RelativeToolTip": "Mission\\Controllers\\LoginController.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAawCQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T05:05:50.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T05:05:50.493Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LoginRepository.cs",
-              "DocumentMoniker": "E:\\TatvaSoft\\Day-8\\Mission\\Mission.Repositories\\Repositories\\LoginRepository.cs",
-              "RelativeDocumentMoniker": "Mission.Repositories\\Repositories\\LoginRepository.cs",
-              "ToolTip": "E:\\TatvaSoft\\Day-8\\Mission\\Mission.Repositories\\Repositories\\LoginRepository.cs",
-              "RelativeToolTip": "Mission.Repositories\\Repositories\\LoginRepository.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAawCwAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T05:00:30.885Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ILoginService.cs",
               "DocumentMoniker": "E:\\TatvaSoft\\Day-8\\Mission\\Mission.Services\\IServices\\ILoginService.cs",
               "RelativeDocumentMoniker": "Mission.Services\\IServices\\ILoginService.cs",
@@ -282,12 +272,11 @@
               "RelativeToolTip": "Mission.Services\\IServices\\ILoginService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T05:05:27.929Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T05:05:27.929Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "LoginService.cs",
               "DocumentMoniker": "E:\\TatvaSoft\\Day-8\\Mission\\Mission.Services\\Services\\LoginService.cs",
               "RelativeDocumentMoniker": "Mission.Services\\Services\\LoginService.cs",
@@ -295,12 +284,11 @@
               "RelativeToolTip": "Mission.Services\\Services\\LoginService.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAQwDAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T05:05:34.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T05:05:34.869Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 14,
               "Title": "AdminUserController.cs",
               "DocumentMoniker": "E:\\TatvaSoft\\Day-8\\Mission\\Mission\\Controllers\\AdminUserController.cs",
               "RelativeDocumentMoniker": "Mission\\Controllers\\AdminUserController.cs",
@@ -312,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\TatvaSoft\\Day-8\\Mission\\Mission\\appsettings.json",
               "RelativeDocumentMoniker": "Mission\\appsettings.json",
@@ -320,12 +308,11 @@
               "RelativeToolTip": "Mission\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-04T05:52:57.846Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T05:52:57.846Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "E:\\TatvaSoft\\Day-8\\Mission\\Mission\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Mission\\appsettings.Development.json",
@@ -333,12 +320,11 @@
               "RelativeToolTip": "Mission\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-04T08:42:42.602Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T08:42:42.602Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Mission.http",
               "DocumentMoniker": "E:\\TatvaSoft\\Day-8\\Mission\\Mission\\Mission.http",
               "RelativeDocumentMoniker": "Mission\\Mission.http",

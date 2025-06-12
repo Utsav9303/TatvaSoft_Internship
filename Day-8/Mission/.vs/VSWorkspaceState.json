@@ -4,6 +4,7 @@
     "\\Mission",
     "\\Mission.Entities",
     "\\Mission.Repositories",
+    "\\Mission.Repositories\\Repositories",
     "\\Mission.Services",
     "\\Mission\\Controllers"
   ],
